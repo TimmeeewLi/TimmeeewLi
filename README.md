@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
   
 ## 🛠️ Technologies & Tools
 
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
+![C#]([![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#))
 ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
 ![Luau](https://img.shields.io/badge/-Luau-333333?style=flat&logo=lua)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
