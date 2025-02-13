@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ## 🚀 About Me
 
 - 🔭 I’m currently working on [Unity & Web Projects]
-- 🌱 I’m currently learning [JavaScript]
+- 🌱 I’m currently learning [C#]
 - 📫 How to reach me: [timmeeewli@gmail.com]
   
 ## 🛠️ Technologies & Tools
